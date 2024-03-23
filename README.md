@@ -8,10 +8,10 @@ Hi I'm Anh, an entry-level Data Analyst with strong skills in:
 
 ## 💼  Portfolio
 Here are my projects about data cleaning and transformation, data analysis and visualization, and data science.
+[Portfolio Guide](guide.md)
 
 ## 🪝 Tools
 * Language: SQL, Python
 * Visualization: Power BI
 * Spreadsheet Software: Excel, Google Sheets
 
-[Portfolio Guide](guide.md)
