@@ -13,3 +13,5 @@ Here are my projects about data cleaning and transformation, data analysis and v
 * Language: SQL, Python
 * Visualization: Power BI
 * Spreadsheet Software: Excel, Google Sheets
+
+[Portfolio Guide](guide.md)
