@@ -7,8 +7,8 @@ Hi I'm Anh, an entry-level Data Analyst with strong skills in:
 * Create compelling visualizations with Power BI to communicate insights.
 
 ## 💼  Portfolio
-Here are my projects about data cleaning and transformation, data analysis and visualization, and data science.
-[Portfolio Guide](guide.md)
+In this [Portfolio Guide](guide.md), there are my projects about data cleaning and transformation, data analysis and visualization, and data science.
+
 
 ## 🪝 Tools
 * Language: SQL, Python
