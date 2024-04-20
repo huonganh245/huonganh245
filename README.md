@@ -1,6 +1,6 @@
 ## 💬 About me
 ![Cover](https://github.com/huonganh245/portfolio/assets/26918637/66e56a19-0220-4c04-b6fb-7474716ad65e)
-<img src="https://github.com/huonganh245/huonganh245/blob/main/giphy%20(1).gif" width="50" height="50" />
+<img src="https://github.com/huonganh245/huonganh245/blob/main/coding.gif" width="50" height="50" />
 Hi I'm Anh, an entry-level Data Analyst with strong skills in:
 * Utilizing SQL to query databases, extract, and clean data and perform ad-hoc data analysis.
 * Performing data analysis using tools like Python and Excel.
