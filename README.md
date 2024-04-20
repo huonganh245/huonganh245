@@ -14,6 +14,3 @@ In this [Portfolio Guide](guide.md), there are my projects about data cleaning a
 * Language: ![Static Badge](https://img.shields.io/badge/Python-black?logo=Python) ![Static Badge](https://img.shields.io/badge/SQL-black)
 * Visualization: ![Static Badge](https://img.shields.io/badge/PowerBI-black?logo=PowerBI)
 * Spreadsheet Software: ![Static Badge](https://img.shields.io/badge/Excel-black?logo=Microsoft%20Excel&logoColor=green) ![Static Badge](https://img.shields.io/badge/Google%20Sheets-black?style=flat&logo=GoogleSheets&logoColor=209f60)
-
-
-
