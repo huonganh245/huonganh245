@@ -1,8 +1,9 @@
 # 💼 Anh's Portfolio
 ## Summary:
-- SQL
-- Python
-- Power BI
+[![Static Badge](https://img.shields.io/badge/SQL-orange?style=for-the-badge)](#sql)
+[![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge)](#python)
+[![Static Badge](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge)](#powerbi)
+---
 
 ## SQL <a name="sql"></a>
 | Project Link                       | Area                          | Description   |
