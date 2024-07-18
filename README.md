@@ -5,6 +5,7 @@ Hi I'm Anh, an entry-level Business Analyst/Data Analyst with strong skills in:
 * Utilizing SQL to query databases, extract, and clean data and perform ad-hoc data analysis.
 * Performing data analysis using tools like Python and Excel.
 * Creating compelling visualizations with Power BI to communicate insights.
+* 2.5 years of experience in Tech Recruitment.
                                                                                     
 ## 💼  Portfolio
 In this [Portfolio Guide](guide.md), there are my projects about data cleaning and transformation, data analysis and visualization, and data science.
